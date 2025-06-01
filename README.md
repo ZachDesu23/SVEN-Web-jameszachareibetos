@@ -6,7 +6,7 @@
 - **SQLite**
 
 # Clone the repository
-git clone https://github.com/your-username/your-project-name.git
+git clone https://github.com/ZachDesu23/SVEN-Web-jameszachareibetos.git
 cd your-project-name
 
 # Install PHP dependencies
