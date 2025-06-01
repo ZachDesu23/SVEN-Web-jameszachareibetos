@@ -1,0 +1,31 @@
+.image-card img {
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+
+@media (max-height: 768px) {
+  .image-card img {
+    height: 200px; 
+  }
+}
+
+
+@media (max-height: 576px) {
+  .image-card img {
+    height: 50px; 
+  }
+}
+
+@media (max-width: 768px) {
+  .image-card img {
+    height: 150px; 
+  }
+}
+
+@media (max-width: 576px) {
+  .image-card img {
+    height: 120px; 
+  }
+}
