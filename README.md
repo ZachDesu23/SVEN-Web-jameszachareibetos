@@ -2,7 +2,7 @@
 
 - **Laravel**
 - **React** with **Vite**
-- **Inertia.js**
+- **Inertia.js** bridging laravel and react
 - **SQLite**
 
 # Clone the repository
